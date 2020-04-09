@@ -1,2 +1,0 @@
-CLASS net/minecraft/class_1715 net/minecraft/inventory/CraftingInventory
-	FIELD field_7802 menu Lnet/minecraft/class_1703;

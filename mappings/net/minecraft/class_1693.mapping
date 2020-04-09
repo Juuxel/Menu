@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_1693
+	METHOD method_17357 createMenu (ILnet/minecraft/class_1661;)Lnet/minecraft/class_1703;

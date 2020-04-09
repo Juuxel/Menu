@@ -1,1 +1,4 @@
 CLASS net/minecraft/class_3913 net/minecraft/menu/property/PropertyDelegate
+	COMMENT A property delegate represents an indexed list of integer properties.\\n\\n<p>Property delegates are used for displaying integer values in screens,\\nsuch as the progress bars in furnaces.
+	METHOD method_17391 set (II)V
+		COMMENT Sets the property value at the index.\\n\\n<p>This method should have a proper implementation as it is used on the client\\nto update values using packets from the server.

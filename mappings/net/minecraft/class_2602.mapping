@@ -1,13 +1,7 @@
-CLASS net/minecraft/class_2602 net/minecraft/network/listener/ClientPlayPacketListener
+CLASS net/minecraft/class_2602
 	METHOD method_11089 onOpenHorseMenu (Lnet/minecraft/class_2648;)V
-		ARG 1 packet
 	METHOD method_11102 onCloseMenu (Lnet/minecraft/class_2645;)V
-		ARG 1 packet
 	METHOD method_11109 onMenuSlotUpdate (Lnet/minecraft/class_2653;)V
-		ARG 1 packet
 	METHOD method_11123 onConfirmMenuAction (Lnet/minecraft/class_2644;)V
-		ARG 1 packet
 	METHOD method_11131 onMenuPropertyUpdate (Lnet/minecraft/class_2651;)V
-		ARG 1 packet
 	METHOD method_17587 onOpenMenu (Lnet/minecraft/class_3944;)V
-		ARG 1 packet

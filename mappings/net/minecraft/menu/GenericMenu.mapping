@@ -1,1 +1,2 @@
 CLASS net/minecraft/class_1707 net/minecraft/menu/GenericMenu
+	COMMENT A generic menu with 9 columns and a customizable amount of rows.\\n\\n<p>The {@code createGeneric9xN} methods should usually be used only on the client,\\nas they have an empty inventory by default.

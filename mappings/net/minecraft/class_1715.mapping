@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_1715
+	FIELD field_7802 menu Lnet/minecraft/class_1703;
+	METHOD <init> (Lnet/minecraft/class_1703;II)V
+		ARG 1 menu

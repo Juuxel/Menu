@@ -1,2 +1,0 @@
-CLASS net/minecraft/class_2955 net/minecraft/recipe/InputSlotFiller
-	FIELD field_13348 craftingMenu Lnet/minecraft/class_1729;

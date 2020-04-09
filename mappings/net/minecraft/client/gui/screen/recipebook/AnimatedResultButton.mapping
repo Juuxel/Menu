@@ -1,2 +1,0 @@
-CLASS net/minecraft/class_514 net/minecraft/client/gui/screen/recipebook/AnimatedResultButton
-	FIELD field_3137 craftingMenu Lnet/minecraft/class_1729;

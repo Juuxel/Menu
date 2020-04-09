@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_507
+	FIELD field_3095 craftingMenu Lnet/minecraft/class_1729;
+	METHOD method_2595 (ZII)I
+		ARG 3 menuWidth
+	METHOD method_2597 (IILnet/minecraft/class_310;ZLnet/minecraft/class_1729;)V
+		ARG 5 craftingMenu

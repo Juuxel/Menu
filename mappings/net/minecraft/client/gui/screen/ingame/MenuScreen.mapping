@@ -1,2 +1,5 @@
 CLASS net/minecraft/class_465 net/minecraft/client/gui/screen/ingame/MenuScreen
 	FIELD field_2797 menu Lnet/minecraft/class_1703;
+	METHOD <init> (Lnet/minecraft/class_1703;Lnet/minecraft/class_1661;Lnet/minecraft/class_2561;)V
+		ARG 1 menu
+		ARG 2 playerInventory

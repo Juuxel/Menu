@@ -1,7 +1,4 @@
-CLASS net/minecraft/class_2792 net/minecraft/network/listener/ServerPlayPacketListener
+CLASS net/minecraft/class_2792
 	METHOD method_12054 onMenuClose (Lnet/minecraft/class_2815;)V
-		ARG 1 packet
 	METHOD method_12076 onClickSlot (Lnet/minecraft/class_2813;)V
-		ARG 1 packet
 	METHOD method_12079 onConfirmMenuAction (Lnet/minecraft/class_2809;)V
-		ARG 1 packet

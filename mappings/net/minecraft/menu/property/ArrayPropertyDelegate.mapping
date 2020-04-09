@@ -1,1 +1,2 @@
 CLASS net/minecraft/class_3919 net/minecraft/menu/property/ArrayPropertyDelegate
+	COMMENT A {@link PropertyDelegate} that is implemented using an int array.\\n\\n<p>{@code ArrayPropertyDelegate}s are usually used on the client-sided menu,\\nwhere they are updated using synchronization packets.

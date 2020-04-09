@@ -1,2 +1,3 @@
 CLASS net/minecraft/class_3915 net/minecraft/menu/property/Property
+	COMMENT An integer property that is stored in a {@linkplain net.minecraft.menu.Menu menu}.\\n\\n<p>{@code Property} instances are used for tracking integer properties in property delegates\\nand other sources of integer properties, and sending needed content updates to listeners.\\n\\n@see net.minecraft.menu.Menu#addProperty
 	CLASS 3 3

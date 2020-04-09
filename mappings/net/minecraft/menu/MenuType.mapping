@@ -1,2 +1,6 @@
 CLASS net/minecraft/class_3917 net/minecraft/menu/MenuType
+	COMMENT Menu types are used to register and sync menus, and to create them on the client.
+	METHOD method_17434 create (ILnet/minecraft/class_1661;)Lnet/minecraft/class_1703;
+		COMMENT Creates a menu using the {@link Factory} of this menu type.
 	CLASS class_3918 Factory
+		COMMENT Used to create {@link Menu} instances on the client.

@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_2649
+	FIELD field_12146 syncId I
+		COMMENT The {@link net.minecraft.menu.Menu#syncId} of a menu.

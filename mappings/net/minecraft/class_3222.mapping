@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_3222 net/minecraft/server/network/ServerPlayerEntity
+CLASS net/minecraft/class_3222
 	FIELD field_13986 menuSyncId I
 	METHOD method_14204 openMenu (Lnet/minecraft/class_1703;)V
 		ARG 1 menu
