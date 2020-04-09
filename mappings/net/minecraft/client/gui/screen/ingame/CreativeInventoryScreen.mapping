@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_481
+CLASS net/minecraft/class_481 net/minecraft/client/gui/screen/ingame/CreativeInventoryScreen
 	CLASS class_482
 		METHOD <init> <init> (Lnet/minecraft/class_1263;III)V
 			ARG 1 invSlot
