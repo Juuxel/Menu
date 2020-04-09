@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_3929 net/minecraft/client/gui/screen/ingame/MenuScreens
+	CLASS class_3930 Provider

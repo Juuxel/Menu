@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_507 net/minecraft/client/gui/screen/recipebook/RecipeBookWidget
+	FIELD field_3095 craftingMenu Lnet/minecraft/class_1729;

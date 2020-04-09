@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_1704 net/minecraft/menu/BeaconMenu
+	CLASS class_1705 PaymentSlot

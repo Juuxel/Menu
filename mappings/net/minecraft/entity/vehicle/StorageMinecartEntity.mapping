@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_1693 net/minecraft/entity/vehicle/StorageMinecartEntity
+	METHOD method_17357 createMenu (ILnet/minecraft/class_1661;)Lnet/minecraft/class_1703;
+		ARG 1 syncId
+		ARG 2 playerInventory

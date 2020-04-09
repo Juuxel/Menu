@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_3935 net/minecraft/client/gui/screen/ingame/LecternScreen
+	FIELD field_17422 menu Lnet/minecraft/class_3916;

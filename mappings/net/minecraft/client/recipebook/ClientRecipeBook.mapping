@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_299 net/minecraft/client/recipebook/ClientRecipeBook
+	METHOD method_1395 getGroupsForMenu (Lnet/minecraft/class_1729;)Ljava/util/List;
+		ARG 0 menu

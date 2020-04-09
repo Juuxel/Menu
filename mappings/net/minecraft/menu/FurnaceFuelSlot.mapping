@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_1717 net/minecraft/menu/FurnaceFuelSlot
+	FIELD field_17083 menu Lnet/minecraft/class_1720;

@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_4970 net/minecraft/block/AbstractBlock
+	METHOD method_17454 createMenuFactory (Lnet/minecraft/class_2680;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;)Lnet/minecraft/class_3908;
+		ARG 1 state
+		ARG 2 world
+		ARG 3 pos
+	CLASS class_4971 AbstractBlockState
+		METHOD method_26196 createMenuFactory (Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;)Lnet/minecraft/class_3908;
+			ARG 1 world
+			ARG 2 pos

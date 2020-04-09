@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_1708 net/minecraft/menu/BrewingStandMenu
+	CLASS class_1709 FuelSlot
+	CLASS class_1710 IngredientSlot
+	CLASS class_1711 PotionSlot

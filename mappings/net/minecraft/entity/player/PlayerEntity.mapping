@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_1657 net/minecraft/entity/player/PlayerEntity
+	FIELD field_7498 playerMenu Lnet/minecraft/class_1723;
+	FIELD field_7512 menu Lnet/minecraft/class_1703;
+	METHOD method_17355 openMenu (Lnet/minecraft/class_3908;)Ljava/util/OptionalInt;
+		ARG 1 factory
+	METHOD method_7346 closeMenu ()V

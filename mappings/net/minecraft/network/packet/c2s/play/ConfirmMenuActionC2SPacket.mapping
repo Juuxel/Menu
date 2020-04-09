@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_2809 net/minecraft/network/packet/c2s/play/ConfirmMenuActionC2SPacket
+	FIELD field_12811 syncId I
+	METHOD method_12176 getActionId ()S
+	METHOD method_12178 getSyncId ()I

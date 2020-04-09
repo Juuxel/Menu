@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_1712 net/minecraft/menu/MenuListener
+	METHOD method_7634 onMenuRegistered (Lnet/minecraft/class_1703;Lnet/minecraft/class_2371;)V
+		ARG 1 menu
+		ARG 2 stacks

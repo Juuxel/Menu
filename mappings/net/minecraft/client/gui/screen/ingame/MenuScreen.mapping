@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_465 net/minecraft/client/gui/screen/ingame/MenuScreen
+	FIELD field_2797 menu Lnet/minecraft/class_1703;
