@@ -4,4 +4,6 @@ CLASS net/minecraft/class_3222
 		ARG 1 menu
 	METHOD method_14237 incrementMenuSyncId ()V
 	METHOD method_14247 onMenuClosed ()V
-		COMMENT Finishes closing the current menu and resets the field to the {@link #playerMenu}.\\n\\n<p>This method gets called by {@link #closeMenu()} and when the client closes a menu.
+		COMMENT Finishes closing the current menu and resets the field to the {@link #playerMenu}.
+		COMMENT
+		COMMENT <p>This method gets called by {@link #closeMenu()} and when the client closes a menu.
