@@ -2,5 +2,8 @@ CLASS net/minecraft/class_1703 net/minecraft/menu/Menu
 	COMMENT A menu is a list of items and properties, synchronized between the server and the client.\\n\\n<p>Menus are usually used for syncing the GUIs of container blocks,\\nand they have a list of {@linkplain Slot slots} that store items.\\nThe slots are usually controlled by the server.\\n\\n<p>Menus also contain a list of {@linkplain net.minecraft.menu.property.Property properties}\\nthat are used for syncing integers (e.g. progress bars) from the server to the client.\\n\\n<p>The {@link #syncId} is shared between the two sides. It is used to verify that a player\\nhas a menu open so that they can move items, for example.\\n\\n<p>On the client, menus are visualized by a {@link net.minecraft.client.gui.screen.ingame.MenuScreen}.\\nMenu screens have a reference to a client-sided menu that is exposed through the\\n{@link net.minecraft.client.gui.screen.ingame.MenuProvider} interface.
 	METHOD method_17360 addProperties (Lnet/minecraft/class_3913;)V
 		COMMENT Adds all properties in the {@code data} to this menu.
+		ARG 1 data
+	METHOD method_17362 (Lnet/minecraft/class_3915;)Lnet/minecraft/class_3915;
+		ARG 1 property
 	METHOD method_7602 getStacks ()Lnet/minecraft/class_2371;
 		COMMENT Gets a list of item stacks stored in this menu's slots.

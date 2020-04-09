@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_3439
+	METHOD method_14880 (Lnet/minecraft/class_1729;)Z
+		ARG 1 menu

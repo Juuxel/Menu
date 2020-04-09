@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_472
+	METHOD <init> (Lnet/minecraft/class_1708;Lnet/minecraft/class_1661;Lnet/minecraft/class_2561;)V
+		ARG 1 menu
+		ARG 2 playerInventory

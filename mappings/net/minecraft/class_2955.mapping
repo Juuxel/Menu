@@ -1,2 +1,4 @@
 CLASS net/minecraft/class_2955
 	FIELD field_13348 craftingMenu Lnet/minecraft/class_1729;
+	METHOD <init> <init> (Lnet/minecraft/class_1729;)V
+		ARG 1 craftingMenu
