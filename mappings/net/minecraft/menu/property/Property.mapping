@@ -5,4 +5,3 @@ CLASS net/minecraft/class_3915 net/minecraft/menu/property/Property
 	COMMENT and other sources of integer properties, and sending needed content updates to listeners.
 	COMMENT
 	COMMENT @see net.minecraft.menu.Menu#addProperty
-	CLASS 3 3
