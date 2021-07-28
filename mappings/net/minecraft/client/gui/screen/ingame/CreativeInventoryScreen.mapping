@@ -1,10 +1,11 @@
 CLASS net/minecraft/class_481 net/minecraft/client/gui/screen/ingame/CreativeInventoryScreen
-	CLASS class_482
-		METHOD <init> <init> (Lnet/minecraft/class_1263;III)V
-			ARG 1 invSlot
-			ARG 2 xPosition
-			ARG 3 yPosition
+	CLASS class_482 LockableSlot
+		METHOD <init> (Lnet/minecraft/class_1263;III)V
+			ARG 1 inventory
+			ARG 2 index
+			ARG 3 x
+			ARG 4 y
 	CLASS class_483 CreativeMenu
-	CLASS class_484
+	CLASS class_484 CreativeSlot
 		METHOD <init> (Lnet/minecraft/class_1735;III)V
 			ARG 2 index
