@@ -4,7 +4,7 @@ CLASS net/minecraft/class_3222
 	FIELD field_29181 menuListener Lnet/minecraft/class_1712;
 	METHOD method_14204 openMenu (Lnet/minecraft/class_1703;)V
 		ARG 1 menu
-	METHOD method_14235 (Lnet/minecraft/class_1703;)V
+	METHOD method_14235 onMenuOpened (Lnet/minecraft/class_1703;)V
 		ARG 1 menu
 	METHOD method_14237 incrementMenuSyncId ()V
 	METHOD method_14247 onMenuClosed ()V
