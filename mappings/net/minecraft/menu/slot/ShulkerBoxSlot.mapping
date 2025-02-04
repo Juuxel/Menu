@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_1736 net/minecraft/menu/ShulkerBoxSlot
+CLASS net/minecraft/class_1736 net/minecraft/menu/slot/ShulkerBoxSlot
 	METHOD <init> (Lnet/minecraft/class_1263;III)V
 		ARG 1 inventory
 		ARG 2 index
