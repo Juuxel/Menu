@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_1729 net/minecraft/menu/AbstractRecipeMenu
+	CLASS class_9885 PostFillAction

@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_8882 net/minecraft/menu/CrafterInputSlot
+	FIELD field_46789 menu Lnet/minecraft/class_8881;

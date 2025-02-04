@@ -1,5 +1,0 @@
-CLASS net/minecraft/class_2644 net/minecraft/network/packet/s2c/play/ConfirmMenuActionS2CPacket
-	FIELD field_12136 syncId I
-	METHOD <init> (ISZ)V
-		ARG 1 syncId
-	METHOD method_11425 getSyncId ()I
