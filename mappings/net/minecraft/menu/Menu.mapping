@@ -21,3 +21,4 @@ CLASS net/minecraft/class_1703 net/minecraft/menu/Menu
 		ARG 1 property
 	METHOD method_7602 getStacks ()Lnet/minecraft/class_2371;
 		COMMENT Gets a list of item stacks stored in this menu's slots.
+	CLASS 1

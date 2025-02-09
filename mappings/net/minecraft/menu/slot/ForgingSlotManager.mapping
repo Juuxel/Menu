@@ -1,2 +1,3 @@
 CLASS net/minecraft/class_8047 net/minecraft/menu/slot/ForgingSlotManager
 	CLASS class_8048 ForgingSlot
+	CLASS class_8049

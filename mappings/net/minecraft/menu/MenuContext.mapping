@@ -1,2 +1,4 @@
 CLASS net/minecraft/class_3914 net/minecraft/menu/MenuContext
 	COMMENT Menu contexts allow menus to interact with the logical server's world safely.
+	CLASS 1
+	CLASS 2
