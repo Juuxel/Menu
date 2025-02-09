@@ -47,6 +47,8 @@ public abstract class AddNestedClasses extends DefaultTask {
                 for (MappingTree.ClassMapping clas : List.copyOf(mappingTree.getClasses())) {
                     var clasName = clas.getSrcName();
                     var clasSimpleName = clasName.substring(clasName.lastIndexOf('/') + 1);
+                    var clasDstName = clas.getDstName(0);
+                    if (clasDstName == null) continue;
                     Path clasPath = fs.getPath(clas.getSrcName() + ".class");
                     var siblings = getChildren(childCache, clasPath.getParent());
 
@@ -59,7 +61,7 @@ public abstract class AddNestedClasses extends DefaultTask {
                             if (mappingTree.getClass(childName) == null) {
                                 modified = true;
                                 modifiedInThisPhase = true;
-                                var dstName = clas.getDstName(0) + lastPart;
+                                var dstName = clasDstName + lastPart;
                                 mappingTree.addClass(new SimpleClassMapping(mappingTree, childName, dstName));
                             }
                         }
