@@ -5,5 +5,3 @@ CLASS net/minecraft/class_5916 net/minecraft/menu/MenuSyncHandler
 		ARG 1 menu
 	METHOD method_34262 (Lnet/minecraft/class_1703;Lnet/minecraft/class_1799;)V
 		ARG 1 menu
-	METHOD method_34263 (Lnet/minecraft/class_1703;Lnet/minecraft/class_2371;Lnet/minecraft/class_1799;[I)V
-		ARG 1 menu

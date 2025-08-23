@@ -64,7 +64,7 @@ dependencies {
     }
 }
 
-val gameVersion = "1.21.3"
+val gameVersion = "1.21.8"
 
 filament {
     minecraftVersion = gameVersion
